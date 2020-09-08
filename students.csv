@@ -1,0 +1,11 @@
+StudentId,Name,Gender,DateOfBirth,City,State,EmailId,Qualification,Stream
+1,Raj,Male,10-10-1995,Mumbai,Maharastra,raj@gmail.com,B.E.,Electronics
+2,Priyanka,Female,20-10-1995,Pune,Maharastra,priyanka@gmail.com,B.Tech.,IT
+3,Aquib,Male,1998-08-19,Patna,Bihar,afs@gmail.com,B.Tech.,Computer Science
+4,Kavita,Female,1998-03-07,Jaipur,Rajasthan,kvs@gmail.com,B.Tech.,CS
+5,Anju,Female,1998-04-12,Nagda,Madhya Pradesh,anju@gmail.com,B.E.,Mechanical
+6,Aamir,Male,1999-08-13,Patna,Bihar,afsk@gmail.com,B.Tech.,Electrical
+7,Alina,Female,1998-03-07,Jaipur,Rajasthan,ali@gmail.com,B.E.,Chemical
+8,Hemant,Male,1998-07-22,Alwar,Rajasthan,hemant@gmail.com,B.Tech.,CS
+9,Nilsha,Female,1998-05-06,Ujjain,Madhya Pradesh,nilsha@gmail.com,B.E.,Civil
+10,Pragya,Female,1998-06-12,Eta,Uttar Pradesh,pragya@gmail.com,B.Tech.,CS
